@@ -3,14 +3,16 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "",
+  "cover": "https://pbs.twimg.com/media/FUVxserWAAQHSAN.jpg",
   "chapters": {
     "187": {
       "title": "187",
       "volume": "",
       "last_updated": "1688672639",
       "groups": {
-        "": "https://drive.google.com/drive/folders/1Q085d3o4himgatlq9V21nPm4RAWpujU4?usp=drive_link"
+        "": [
+          "https://drive.google.com/drive/folders/1Q085d3o4himgatlq9V21nPm4RAWpujU4?usp=drive_link"
+        ]
       }
     }
   }
