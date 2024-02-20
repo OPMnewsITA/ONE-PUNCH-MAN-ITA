@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1708434317",
       "groups": {
-        "OnePunchManNewsITA": "https://imgbox.com/gallery/edit/lhm2t6CvH2/ADUHkK8OiUHlZzfZ"
+        "OnePunchManNewsITA": [
+          "https://imgbox.com/gallery/edit/lhm2t6CvH2/ADUHkK8OiUHlZzfZ"
+        ]
       }
     }
   }
