@@ -10,7 +10,9 @@
       "volume": "",
       "last_updated": "1708434317",
       "groups": {
-        "OnePunchManNewsITA": "/proxy/api/imgur/chapter/OqRHpyv"
+        "OnePunchManNewsITA": [
+          "https://imgur.com/a/OqRHpyv"
+        ]
       }
     }
   }
