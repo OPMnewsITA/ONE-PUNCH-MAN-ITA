@@ -2133,6 +2133,16 @@
       "groups": {
         "OPM news ITA": "/proxy/api/imgur/chapter/TfLy7tp"
       }
+    },
+    "198": {
+      "title": "198",
+      "volume": "",
+      "last_updated": "1726350954",
+      "groups": {
+        "OPM news ITA": [
+          "https://mangadex.org/chapter/159ba49e-57e0-4fb9-b77f-5ecacb8de30f"
+        ]
+      }
     }
   }
 }
