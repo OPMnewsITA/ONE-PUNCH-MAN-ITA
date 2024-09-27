@@ -2083,7 +2083,7 @@
       "volume": "",
       "last_updated": "1727449125",
       "groups": {
-        "OPM news ITA": "https://mangadex.org/chapter/bd281338-90ef-4831-9554-35577c74c4ab"
+        "OPM news ITA": "/proxy/api/mangadex/chapter/bd281338-90ef-4831-9554-35577c74c4ab"
       }
     },
     "198": {
@@ -2091,7 +2091,7 @@
       "volume": "",
       "last_updated": "1727449304",
       "groups": {
-        "OPM news ITA": "https://mangadex.org/chapter/2f6135ad-f77b-4ff0-9a4c-c9eb7cd3712e"
+        "OPM news ITA": "/proxy/api/mangadex/chapter/bd281338-90ef-4831-9554-35577c74c4ab"
       }
     }
   }
