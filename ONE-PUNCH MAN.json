@@ -2125,6 +2125,22 @@
       "groups": {
         "OPM news ITA": "/proxy/api/mangadex/chapter/47d9f532-c373-437b-8327-a7175f983972"
       }
+    },
+    "197": {
+      "title": "Ciò che solo io posso fare",
+      "volume": "",
+      "last_updated": "1727449125",
+      "groups": {
+        "OPM news ITA": "https://mangadex.org/chapter/bd281338-90ef-4831-9554-35577c74c4ab"
+      }
+    },
+    "198": {
+      "title": "Velocità del suono e velocità della luce",
+      "volume": "",
+      "last_updated": "1727449304",
+      "groups": {
+        "OPM news ITA": "https://mangadex.org/chapter/2f6135ad-f77b-4ff0-9a4c-c9eb7cd3712e"
+      }
     }
   }
 }
